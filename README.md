@@ -1,6 +1,6 @@
 ## Fskript 1.0.0
 
-Fskript 1.0.0 is a PHP and MySQL based forumsoftware.
+Fskript 1.0.0 is a PHP and MySQL based bulletin board software.
 
 *Technologies*
 
