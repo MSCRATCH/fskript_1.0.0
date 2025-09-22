@@ -2,8 +2,7 @@
 //manage_post.php [Manage post]
 //Manage_post_controller
 
-class Manage_post_controller
-{
+class Manage_post_controller {
 
 function __construct($dbh, $header_template, $footer_template, $footer_template_minimal, $settings) {
 $this->dbh = $dbh;
