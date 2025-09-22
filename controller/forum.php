@@ -2,8 +2,7 @@
 //forum.php [Output of categories.]
 //Forum_controller
 
-class Forum_controller
-{
+class Forum_controller {
 
 function __construct($dbh, $header_template, $footer_template, $footer_template_minimal, $settings) {
 $this->dbh = $dbh;
