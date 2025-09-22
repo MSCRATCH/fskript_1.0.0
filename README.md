@@ -1,18 +1,5 @@
 ## Fskript 1.0.0
-<pre>
-      _.-- ,.--.
-    .'   .'      /
-    | @       |'..--------._
-   /      \._/              '.
-  /  .-.-                     \
- (  /    \                     \
- \\      '.                    |
-  \\       \   -.             /
-   :\       |    )._____.'    \
-    "       |   /  \  |  \    \
-            |   |./'  :__ \.-'
-            '--'
-</pre>   
+
 Fskript 1.0.0 is a PHP and MySQL based bulletin board software.
 
 *Technologies*
